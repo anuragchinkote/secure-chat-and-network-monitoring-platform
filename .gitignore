@@ -1,0 +1,23 @@
+
+# Secrets and environment configuration
+.env
+.env.*
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Test cache and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Runtime logs
+logs/*.log
+
+# macOS files
+.DS_Store
